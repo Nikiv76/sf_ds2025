@@ -1,7 +1,3 @@
-"""Игра угадай число.
-Компьютер сам загадывает и угадывает число
-"""
-
 import numpy as np
 
 def random_predict(number:int=1) -> int:
@@ -46,6 +42,5 @@ def score_game(random_predict) -> int:
     return(score)
 
 # RUN
-if __name__ == '__main__':
+__name__ == '__main__':
     score_game(random_predict)
-
