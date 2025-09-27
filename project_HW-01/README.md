@@ -6,8 +6,8 @@
 [3. Краткая информация о данных](https://github.com/Nikiv76/sf_ds2025/tree/main/project_HW-01/README.md#Краткая-информация-о-данных)   
 [4. Этапы работы над проектом](https://github.com/Nikiv76/sf_ds2025/tree/main/project_HW-01/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Nikiv76/sf_ds2025/tree/main/project_HW-01/README.md#Результат)   
-[6. Выводы](https://github.com/Nikiv76/sf_ds2025/tree/main/project_HW-01/README.md#Выводы)   
-[7. Свои выводы](https://github.com/Nikiv76/sf_ds2025/tree/main/project_HW-01/README.md#Свои-выводы)
+[6. Выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Выводы)   
+[7. Свои выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Свои-выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток. 
