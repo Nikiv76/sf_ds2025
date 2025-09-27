@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Какой-кейс-решаем)     
 [3. Краткая информация о данных](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Краткая-информация-о-данных)   
 [4. Этапы работы над проектом](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Результат)   
+[5. Результаты](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Результат)   
 [6. Выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Выводы)   
 [7. Свои выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Свои-выводы)
 
@@ -46,7 +46,7 @@
 - Реализация алгоритма в коде. 
 
 
-### Результат:
+### Результаты:
 - Первая программа угадывает загаданное число в среднем за 97-98 попыток.
 - Вторая программа угадывает загаданное число в среднем за 32-33 попытки.
 - Третья программа (моя) уже не угадывает, а вычисляет загаданное число в среднем за 5 попыток.
