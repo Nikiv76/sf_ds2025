@@ -87,6 +87,6 @@ def score_game(game_core_v3) -> int:
 
 print(f"Ваш алгоритм угадывает число в среднем за: {score_game(game_core_v3)} попыток")   
 
-if __name__ == "__main__":
+#if __name__ == "__main__":
     # RUN
-    score_game(game_core_v3)
+   # score_game(game_core_v3)
